@@ -1,0 +1,1 @@
+Configuration(type='global', signal='triangle', size=15, noise=0.5, constant=False, scaling=1.5)

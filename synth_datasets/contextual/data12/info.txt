@@ -1,0 +1,1 @@
+Configuration(type='contextual', signal='triangle', size=35, noise=0.2, constant=False, scaling=1)

@@ -1,0 +1,1 @@
+Configuration(type='contextual', signal='sinus', size=50, noise=1, constant=False, scaling=1)

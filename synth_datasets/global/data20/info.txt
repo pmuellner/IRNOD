@@ -1,0 +1,1 @@
+Configuration(type='global', signal='sinus', size=15, noise=1, constant=False, scaling=1.5)
